@@ -1,0 +1,4 @@
+#ifndef Q?_H
+#define Q?_H
+void q?();
+#endif // Q?_H

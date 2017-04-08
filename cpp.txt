@@ -1,0 +1,9 @@
+#include <iostream>
+#include "console.h"
+#include "q?.h"
+
+using namespace std;
+
+void q?(){
+
+}
